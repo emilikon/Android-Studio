@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">emilikon_oblig1</string>
+    <string name="edittexthint">Navnet du vil sjekke</string>
+    <string name="sjekk">Sjekk</string>
+    <string name="resultat"></string>
+    <string name="nesteAktivitet">Neste Aktivitet</string>
+    <string name="tall">Skriv inn tall</string>
+    <string-array name="maaleenheter">
+        <item>fluid ounce(s)</item>
+        <item>cup(s)</item>
+        <item>gallon(s)</item>
+        <item>hogshead(s)</item>
+    </string-array>
+    <string name="poeng">Her vises antall poeng</string>
+    <string name="spm">Spørsmål</string>
+    <string name="fleip">Fleip</string>
+    <string name="fakta">Fakta</string>
+</resources>
